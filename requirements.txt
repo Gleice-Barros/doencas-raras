@@ -7,3 +7,4 @@ pillow
 wordcloud
 matplotlib 
 python-dotenv
+openpyxl
