@@ -1,0 +1,39 @@
+Tipos de Mapas de Cores
+
+Mapas de Cores Perceptualmente Uniformes (Sequential)
+
+'viridis': Gradiente de azul a amarelo.
+'plasma': Gradiente de roxo a amarelo.
+'inferno': Gradiente de preto a vermelho.
+'magma': Gradiente de preto a amarelo.
+'cividis': Gradiente de azul escuro a amarelo.
+
+Mapas de Cores Divergentes (Diverging)
+
+'coolwarm': Gradiente de azul a vermelho.
+'bwr': Gradiente de azul a branco a vermelho.
+'seismic': Gradiente de azul a vermelho com branco no meio.
+'PiYG': Gradiente de rosa a verde.
+
+Mapas de Cores Categóricos (Qualitative)
+
+'tab10': 10 cores distintas.
+'tab20': 20 cores distintas.
+'Paired': Pares de cores distintas.
+'Set1': Conjunto de cores distintas.
+
+Mapas de Cores de Alta Contraste (High Contrast)
+
+'jet': Gradiente de azul a vermelho passando por verde e amarelo.
+'hsv': Gradiente de todas as cores do espectro.
+
+
+Mapas de Cores Escuros e Claros
+
+'dark_background': Cores adequadas para fundo escuro.
+'grayscale': Escala de cinza.
+
+Mapas de Cores Personalizados
+
+'Set2': 8 cores distintas e mais suaves.
+'Pastel1': Cores suaves e pastéis.

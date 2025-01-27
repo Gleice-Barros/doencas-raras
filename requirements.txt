@@ -1,0 +1,12 @@
+pandas
+sqlalchemy
+psycopg2
+plotly
+requests
+urllib
+numpy
+PIL
+wordcloud
+matplotlib
+difflib
+dotenv
