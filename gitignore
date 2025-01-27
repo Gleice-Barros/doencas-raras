@@ -1,0 +1,25 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de compilação
+dist/
+build/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Ambiente virtual Python
+venv/
+
+# Arquivos do ambiente (variáveis de configuração sensíveis)
+.env
+
+# Arquivos do Git Large File Storage (LFS)
+*.psd
